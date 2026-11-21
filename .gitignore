@@ -1,0 +1,13 @@
+# Compiled Java files
+*.class
+
+# VS Code settings
+.vscode/
+
+# Database credentials
+.env
+.env.*
+*.properties
+
+# Oracle JDBC driver
+lib/*.jar
